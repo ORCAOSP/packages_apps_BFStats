@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">Bigfoot Statistics</string>
+    <string name="send_btn">Send statistics</string>
+    <string name="link">http://www.drewgaren.com/stats/</string>
+    <string name="notification_ticker">Statistics Opted-In</string>
+    <string name="notification_desc">Enable or Disable Anonymous Statistics</string>
+    <string name="notification_title">Bigfoot Statistics</string>
+    <string name="optin">Enable reporting</string>
+    <string name="thxoptin">Thank you for helping us!</string>
+    <string name="sending">Sending stats...</string>
+    <string name="preview">Preview the stats</string>
+    <string name="viewstats">View the stats</string>
+
+</resources>

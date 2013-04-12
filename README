@@ -1,0 +1,11 @@
+Original author: rohitiskul
+In corporation with: fuss132
+
+To compile the app without the whole source run:
+
+. build/envsetup.sh
+lunch yourdevice
+mmm /packages/apps/XYStats
+
+
+Stats for Xylon can be found at http://team-blockbuster.com/stats/viewstats.php

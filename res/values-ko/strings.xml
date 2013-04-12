@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">Xylon AOSP 통계</string>
+    <string name="send_btn">보내기</string>
+    <string name="notification_ticker">통계 허용</string>
+    <string name="notification_desc">익명으로 통계 보내기를 켜거나 끄세요</string>
+    <string name="notification_title">Xylon 통계</string>
+    <string name="optin">보고 활성화</string>
+    <string name="thxoptin">참여해 주셔서 감사합니다</string>
+    <string name="sending">보내는 중…</string>
+    <string name="preview">데이터 미리보기</string>
+    <string name="viewstats">통계 보기</string>
+
+</resources>
